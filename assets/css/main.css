@@ -769,9 +769,10 @@ input[type="radio"]+label:before {
 }
 
 .image1.fit {
-    display: flex;
-    justify-content: center;
-    align-itme: center;
+    display: block;
+    margin: 10%;
+    width: 100%
+	
     
 }
 
