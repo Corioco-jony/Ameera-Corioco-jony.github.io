@@ -765,15 +765,8 @@ input[type="radio"]+label:before {
 }
 
 .image.fit img {
+    margin: 2em 0 2em 0;
     width: 100%;
-}
-
-.image1.fit {
-    display: block;
-    margin: 10%;
-    width: 100%
-	
-    
 }
 
 .image.main {
