@@ -770,7 +770,7 @@ input[type="radio"]+label:before {
 
 .image1.fit {
     display: block;
-    margin: 2em 0 1em 0;
+    margin: 2em 2em 2em 2em;
     width: 100%;
 }
 
