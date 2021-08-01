@@ -772,7 +772,7 @@ input[type="radio"]+label:before {
     display: flex;
     justify-content: center;
     align-itme: center;
-    width: 80%;
+    
 }
 
 .image.main {
